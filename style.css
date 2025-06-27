@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+footer{
+    border: 15px pink solid;
+    border-radius: 30px;
+    background-color: rgb(255, 218, 183);
+}
+.han{
+    border: 5px rgb(249, 146, 146) double;
+    border-radius:6px ;
+
+}
